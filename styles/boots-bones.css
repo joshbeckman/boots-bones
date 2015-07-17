@@ -343,7 +343,7 @@
         .container .columns,
         .container .column { padding-left: 0; padding-right: 0; }
 
-        .row-fluid [class*="span"] { width: 96%; }
+        .row-fluid [class*="span"] { width: 96%; margin-left:2% !important;}
 
         .row-fluid [class*="offset"] { margin-left: 0%; }
 
